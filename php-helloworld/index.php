@@ -1,3 +1,8 @@
-<?php
-print "redhat openshift! php version is " . PHP_VERSION . "\n";
-?>
+<html>
+ <head>
+  <title>1st PHP Page</title>
+ </head>
+ <body>
+  <?php echo'<p>Hello World</p>';?>
+ </body>
+</html>
